@@ -1,4 +1,4 @@
-<h2>This project uses the concept of vanilla Javacript to download files.</h2>
+<h2>Project Entirely made with vanilla JS</h2>
 <h5>
   Here's the list of supported file formats that can be downloaded:
   <br><br>
